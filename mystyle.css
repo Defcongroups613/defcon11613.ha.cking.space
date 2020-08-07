@@ -69,4 +69,9 @@ color: #00ff00;
 	grid-row-start: 1;
 	grid-row-end: 3;
 }
-
+.item-browser{
+	grid-column-start: 1;
+	grid-column: 2;
+	grid-row-start: 1;
+	grid-row-end: 4;
+}
