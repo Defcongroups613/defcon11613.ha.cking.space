@@ -71,7 +71,7 @@ color: #00ff00;
 }
 .item-browser{
 	grid-column-start: 1;
-	grid-column: 2;
+	grid-column-end: 4;
 	grid-row-start: 3;
 	grid-row-end: 4;
 }
